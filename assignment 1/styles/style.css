@@ -8,12 +8,17 @@
     background-image: url("../styles/assets/Hero-bg.png");
 
 }
-/* .img{
-   display: flex; 
+img{
+    width: 15%;
+}
+.image-group{
+   display: flex;
    justify-content: center;
    align-items: center;
-   ;
-} */
+   height: 20%;
+   margin-bottom: 18px;
+}
+
 #hero .part1{
     
 position: absolute;
